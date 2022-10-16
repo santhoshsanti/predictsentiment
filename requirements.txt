@@ -1,7 +1,7 @@
 joblib==1.2.0
 numpy==1.23.4
 scipy==1.9.2
-scikit-learn
-Pickle
+scikit-learn==1.1.2
+Pickle==3.10.8
 Flask-WTF==1.0.1
 WTForms==3.0.1
