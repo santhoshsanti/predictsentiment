@@ -1,3 +1,4 @@
+python==3.9
 joblib==1.2.0
 numpy==1.23.4
 scipy==1.9.2
